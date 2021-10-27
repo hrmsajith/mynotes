@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
+      "updated": "2021-10-26T11:12:52.736Z"
+    },
+    {
+      "body": "New note\n\n-added\n\n-update",
+      "updated": "2021-10-26T11:12:43.113Z",
+      "id": 2
+    },
+    {
+      "body": "notes added",
+      "updated": "2021-10-26T11:00:52.758Z",
+      "id": 3
+    },
+    {
+      "body": "ajith added",
+      "updated": "2021-10-26T11:01:23.746Z",
+      "id": 4
+    }
+  ]
+}
